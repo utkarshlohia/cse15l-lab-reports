@@ -33,7 +33,7 @@ In the first line, I run the command `ls lecture1/messages/en-us.txt` with the h
 
 In the next line of code, I run the command `cd lecture1/messages/en-us.txt` with the home directory as the working directory. The output is an error since the `cd` command changes the working directory to a different directory, and it does not work with the path to a file.
 
-In the nect line of code, I run the command `cat lecture1/messages/en-us.txt` with the home directory as the working directory. The output is "Hello World!", which are the contents of the file `en-us.txt`. The command `cat` prints out the contents of the file whose path is provided, so this output is not an error.
+In the next line of code, I run the command `cat lecture1/messages/en-us.txt` with the home directory as the working directory. The output is "Hello World!", which are the contents of the file `en-us.txt`. The command `cat` prints out the contents of the file whose path is provided, so this output is not an error.
 
 
 
