@@ -2,7 +2,8 @@
 
 ## Using commands with no arguments
 
-![No Arguments](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-1/No%20Argument.png)
+<img width="255" alt="No Argument" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/025a38f5-f3ac-460f-b747-4d7e1f24bb9d">
+
 
 In the first line in the above screenshot, I ran the `cd` command without any arguments, while in the home directory, which did not change anything since the default directory to which cd takes us is the /home directory. This output is not an error.
 
@@ -12,7 +13,8 @@ The working directory was the home directory when I run the `cat` command. Since
 
 ## Using a directory as an argument
 
-![Directory as Argument](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-1/Directory%20as%20Argument.png)
+<img width="434" alt="Directory as Argument" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/00999805-c387-4f45-91a6-30509b4c5a50">
+
 
 In the first line, I run the command `ls lecture1` while in the home directory. The argument provided is a directory present in the cloned repository. The output lists all the files and directories present in the directory `lecture1`. This is not an error.
 
@@ -24,7 +26,8 @@ I run the command `cat lecture1`, which gives me an error since `lecture1` is a 
 
 ## Using a file as an argument
 
-![File as Argument](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-1/File%20as%20Argument.png)
+<img width="503" alt="File as Argument" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/81227e20-fb53-4287-bfa9-be4822214a1e">
+
 
 In the first line, I run the command `ls lecture1/messages/en-us.txt` with the home directory as the working directory. The path provided is of the file `en-us.txt`, contained in the `messages` directory. The output is the same as the path we gave to the `ls` command. This is an error since the file `en-us.txt` does not contain any files or directories that can be listed.
 
