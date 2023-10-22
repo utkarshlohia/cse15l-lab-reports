@@ -50,3 +50,11 @@ class StringServer {
 }
 ```
 
+![First Time using add](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%207.37.22%20PM.png)
+
+- Methods called for `/add-message?s=Hello` : `public String handleRequest(URI url)`
+- Arguments for the method: `URI url`. The value of `URI url` is https://localhost:4000/add-message?s=Hello
+- Values of fields that change: `String str` was empty and it changes to "1. Hello\n". The value of `count` increases by 1.
+
+## Part 2: SSH Keys
+
