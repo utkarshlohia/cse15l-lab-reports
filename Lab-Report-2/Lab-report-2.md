@@ -60,4 +60,6 @@ class StringServer {
 
 ![Path to private ssh key](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.24.02%20PM.png)
 
-![Path to public key]()
+![Path to public key](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.35.58%20PM.png)
+
+![ssh without password]()
