@@ -62,4 +62,8 @@ class StringServer {
 
 ![Path to public key](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.35.58%20PM.png)
 
-![ssh without password]()
+![ssh without password](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.36.43%20PM.png)
+
+## Part 3:
+
+Something I learnt in lab in weeks 2 and 3 was creating my own server and running it using a url. I also learnt how queries, paths and fragments make up a url. It was fascinating to see how I could see and make changes to other people's NumberServer and see the changes on my personal computer.
