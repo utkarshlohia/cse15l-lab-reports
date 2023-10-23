@@ -50,19 +50,28 @@ class StringServer {
 }
 ```
 
-![First Time using add](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%207.37.22%20PM.png)
+<img width="473" alt="Screenshot 2023-10-21 at 7 37 22 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/cee7c466-5ad2-47a0-8b37-1190fa7836b6">
+
 
 - Methods called for `/add-message?s=Hello` : `public String handleRequest(URI url)`
 - Arguments for the method: `URI url`. The value of `URI url` is https://localhost:4000/add-message?s=Hello
 - Values of fields that change: `String str` was empty and it changes to "1. Hello\n". The value of `count` increases by 1.
 
+<img width="546" alt="Screenshot 2023-10-21 at 7 37 31 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/4d8d830a-1ee4-4ef3-818c-9c8ea9b3700c">
+
+- Methods called for `/add-message?s=How are you` : `public String handleRequest(URI url)`
+- Arguments for the method: `URI url`. The value of `URI url` is `https://localhost:4000/add-message?s=How are you`
+- Values of fields that change: `String str` was empty and it changes to "1. Hello\n2. How are you\n". The value of `count` increases by 1. It becomes 2.
+
+
 ## Part 2: SSH Keys
 
-![Path to private ssh key](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.24.02%20PM.png)
+<img width="539" alt="Screenshot 2023-10-21 at 8 24 02 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/ba3e7e39-5467-45ac-bdf0-57e4c86dfe63">
 
-![Path to public key](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.35.58%20PM.png)
+<img width="1469" alt="Screenshot 2023-10-21 at 8 35 58 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/579f9d34-65f8-4e01-9413-2262eebd77f4">
 
-![ssh without password](https://github.com/utkarshlohia/cse15l-lab-reports/blob/main/Lab-Report-2/Screenshot%202023-10-21%20at%208.36.43%20PM.png)
+<img width="893" alt="Screenshot 2023-10-21 at 8 36 43 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/dc4eecd8-e335-4959-90d5-00194b7fe454">
+
 
 ## Part 3:
 
