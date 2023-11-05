@@ -66,7 +66,8 @@ class StringServer {
 
 ## Part 2: SSH Keys
 
-<img width="539" alt="Screenshot 2023-10-21 at 8 24 02 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/ba3e7e39-5467-45ac-bdf0-57e4c86dfe63">
+<img width="512" alt="Screenshot 2023-11-05 at 12 46 03 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/003589ce-8b67-45b6-adc7-2aaffb10a5e8">
+(Changed)
 
 <img width="1469" alt="Screenshot 2023-10-21 at 8 35 58 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/579f9d34-65f8-4e01-9413-2262eebd77f4">
 
