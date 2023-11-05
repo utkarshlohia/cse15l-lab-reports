@@ -69,7 +69,8 @@ class StringServer {
 <img width="512" alt="Screenshot 2023-11-05 at 12 46 03 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/003589ce-8b67-45b6-adc7-2aaffb10a5e8">
 (Changed)
 
-<img width="1469" alt="Screenshot 2023-10-21 at 8 35 58 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/579f9d34-65f8-4e01-9413-2262eebd77f4">
+<img width="696" alt="Screenshot 2023-11-05 at 1 05 35 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/799f9d3b-422c-4c0f-b848-8d1fc337ad9b">
+(Changed)
 
 <img width="893" alt="Screenshot 2023-10-21 at 8 36 43 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/dc4eecd8-e335-4959-90d5-00194b7fe454">
 
