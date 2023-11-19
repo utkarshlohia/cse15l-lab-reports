@@ -48,20 +48,20 @@ In the original code, the elements of `arr` were not being stored in `newArray`.
 
 1. The `find -name` command of find is used to find files and driectories of a specific name
    ```
-   (base) utkarshlohia@Utkarshs-Air Media % find ../Media -name "Legal_Aid_campaign.txt"
+   ... find ../Media -name "Legal_Aid_campaign.txt"
    ../Media/Legal_Aid_campaign.txt
    ```
 This command searches for all files named Legal_Aid_campaign.txt in the directory Media and returns the path of those files
 
   ```
-    (base) utkarshlohia@Utkarshs-Air biomed % find ../biomed -name "1471-2296-3-19.txt"     
+    ... find ../biomed -name "1471-2296-3-19.txt"     
     ../biomed/1471-2296-3-19.txt
   ```
 This command searches for all files named 1471-2296-3-19.txt in the directory Media and returns the path of those files
 
 2. The `find -type` command option is used to search for files based on their type. (Information from ChatGPT)
    ```
-   (base) utkarshlohia@Utkarshs-Air technical % find ../technical -type d
+   ...technical % find ../technical -type d
     ../technical
     ../technical/government
     ../technical/government/About_LSC
@@ -77,7 +77,7 @@ This command searches for all files named 1471-2296-3-19.txt in the directory Me
    This command searches for all the directories and returns their path
 
    ```
-   (base) utkarshlohia@Utkarshs-Air technical % find ../technical/government -type f
+   ...technical % find ../technical/government -type f
     ../technical/government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
     ../technical/government/About_LSC/Progress_report.txt
     ../technical/government/About_LSC/Strategic_report.txt
@@ -98,7 +98,7 @@ This command searches for all files named 1471-2296-3-19.txt in the directory Me
 
 3. `find -mindepth` starts the search at the minimum depth in the directory tree
    ```
-   (base) utkarshlohia@Utkarshs-Air government % find ../government/Alcohol_Problems -type f -mindepth 1
+   ... government % find ../government/Alcohol_Problems -type f -mindepth 1
     ../government/Alcohol_Problems/Session2-PDF.txt
     ../government/Alcohol_Problems/Session3-PDF.txt
     ../government/Alcohol_Problems/DraftRecom-PDF.txt
@@ -107,14 +107,14 @@ This command searches for all files named 1471-2296-3-19.txt in the directory Me
    This command searches for the files with a minimum depth of 1 in the directory tree
 
    ```
-   (base) utkarshlohia@Utkarshs-Air government % find ../government/Alcohol_Problems -type f -mindepth 3
+   ... find ../government/Alcohol_Problems -type f -mindepth 3
    ```
    This command searches for the files with a minimum depth of 3 in the directory tree
    There is no output since there are no files with a minimum depth of 1 in the directory tree
 
 4. `find -maxdepth` starts the search at the minimum depth in the directory tree
    ```
-   (base) utkarshlohia@Utkarshs-Air technical % find ../technical -type d -maxdepth 2
+   ... find ../technical -type d -maxdepth 2
     ../technical
     ../technical/government
     ../technical/government/About_LSC
@@ -130,7 +130,7 @@ This command searches for all files named 1471-2296-3-19.txt in the directory Me
    This command searches for all directories with a maximum depth of 2 in the directory tree
 
    ```
-   (base) utkarshlohia@Utkarshs-Air technical % find ../technical/government -type f -maxdepth 2
+   ... find ../technical/government -type f -maxdepth 2
     ../technical/government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
     ../technical/government/About_LSC/Progress_report.txt
     ../technical/government/About_LSC/Strategic_report.txt
