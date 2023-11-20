@@ -1,7 +1,7 @@
 # Lab Report 4
 
 
-First I logged in to the remote server using ` ssh cs15lfa23go@ieng6.ucsd.edu` which was 2 up in the history, so i pressed the keys `<up><up><enter>
+First I logged in to the remote server using ` ssh cs15lfa23go@ieng6.ucsd.edu` which was 2 up in the history, so i pressed the keys `<up><up><enter>.
 <img width="551" alt="Screenshot 2023-11-19 at 3 39 08 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/0021e069-f9da-41a4-ba45-8ef10311207e">
 
 
