@@ -21,7 +21,9 @@ I pressed `:wq<enter>` to save and exit.
 <img width="716" alt="Screenshot 2023-11-19 at 3 54 06 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/c84cdcc2-205a-470b-a5f4-27c7f3a4e7de">
 
 I pressed `<up><up><enter>` to run the tests since the command `bash test.sh` was 2 up in the history
+
 <img width="401" alt="Screenshot 2023-11-19 at 3 55 26 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/9171f83b-5619-4e35-9220-5bced9fd4ea8">
 
 I typed the commands `git add .<enter>`, `git commit -m "Labreport"<enter>`, and `git push<enter>` to commit and push all the code to github.
+
 <img width="565" alt="Screenshot 2023-11-19 at 4 03 29 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/872eabd5-869e-4f62-a3e7-343f3068fd02">
