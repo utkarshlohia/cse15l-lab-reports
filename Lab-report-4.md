@@ -6,7 +6,7 @@ First I logged in to the remote server using `ssh cs15lfa23go@ieng6.ucsd.edu ` w
 <img width="551" alt="Screenshot 2023-11-19 at 3 39 08 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/0021e069-f9da-41a4-ba45-8ef10311207e">
 
 
-I cloned the forked githum repository by typing out `git clone ` and then `<cmd+v>` as the ssh link to clone was already copied to clipboard `git@github.com:utkarshlohia/lab7.git`
+I cloned the forked github repository by typing out `git clone ` and then `<cmd+v>` as the ssh link to clone was already copied to clipboard `git@github.com:utkarshlohia/lab7.git`
 <img width="737" alt="Screenshot 2023-11-19 at 3 42 25 PM" src="https://github.com/utkarshlohia/cse15l-lab-reports/assets/62682577/978d99c8-0878-46b2-8848-28abd8539fb6">
 
 
